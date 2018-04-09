@@ -1,0 +1,15 @@
+html {
+	background-color: hotpink;
+}
+
+#pic-of-me{
+	border-radius: 50%;
+}
+
+#title-statement{
+	font-size: large;
+}
+
+.quote{
+	font-size: medium;
+}
